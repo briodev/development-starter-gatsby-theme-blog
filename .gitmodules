@@ -1,0 +1,3 @@
+[submodule "@briodev/gatsby-theme-blog"]
+	path = @briodev/gatsby-theme-blog
+	url = git@github.com:briodev/gatsby-theme-blog.git
